@@ -1,0 +1,38 @@
+[{
+        "index": 1,
+        "scenarioName": "scenario1",
+        "scenarioDescription": "scenarioDescription1",
+        "scenarioVersion": "1",
+        "jobs": ["job1", "job2"],
+        "lastModifiedDate": "2020-03-20 09:32:55.449",
+        "validated": true
+    },
+    {
+        "index": 2,
+        "scenarioName": "scenario2",
+        "scenarioDescription": "scenarioDescription2",
+        "scenarioVersion": "1",
+        "jobs": ["job3"],
+        "lastModifiedDate": "2020-03-10 16:17:55.449",
+        "validated": true
+    },
+    {
+        "index": 3,
+        "scenarioName": "scenario3",
+        "scenarioDescription": "scenarioDescription3",
+        "scenarioVersion": "4",
+        "jobs": ["job1", "job4"],
+        "lastModifiedDate": "2020-02-05 10:38:55.449",
+        "validated": false
+    },
+    {
+        "index": 4,
+        "scenarioName": "scenario4",
+        "scenarioDescription": "scenarioDescription4",
+        "scenarioVersion": "2",
+        "jobs": ["job1", "job3"],
+        "lastModifiedDate": "2019-10-03 18:23:55.449",
+        "validated": true
+    }
+
+]
